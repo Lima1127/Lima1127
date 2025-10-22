@@ -1,31 +1,20 @@
-# Vinicius Lima
+<h1 align="center">Vinicius Lima</h1>
 
-**`Engenheiro de Software`**
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;2%2B%20years%20of%20coding%20experience&center=true&width=440&height=45&color=ffffff" /></a>
+</p>
 
 Olá. Me chamo Vinícius Lima, tenho 23 anos e moro em São Paulo. Sou formado em Ciência da Computação. Desde pequeno sou fascinado por tecnologia, principalmente por jogos, que despertaram meu interesse em aprender programação e entender como as coisas funcionam por trás das telas..
 
-<p align="left">
-    <a href="https://github.com/Lima1127?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lima1127?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Lima1127?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lima1127?color=222258&labelColor=18183E&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-      <a href="https://www.linkedin.com/in/vinicius-pereira-lima/">
-        <img 
-            alt="Linkedin" 
-            title="Visite meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin-in&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/Lima1127?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lima1127?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Lima1127?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Lima1127?color=222258&labelColor=18183E&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-pereira-lima/">
+    <img alt="Linkedin" title="Visite meu Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin-in&logoColor=white"/></a>
 </p>
 
 ---
