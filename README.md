@@ -187,13 +187,6 @@ Hi everyone!! My name is Vinicius Lima, i'm 23 years old and I live in São Paul
 ### 📊 Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lima1127&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
-  />
 
 <img 
       align="left" 
