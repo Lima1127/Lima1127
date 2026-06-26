@@ -9,8 +9,6 @@ Hi everyone!! My name is Vinicius Lima, i'm 23 years old and I live in São Paul
 <p align="center">
   <a href="https://github.com/Lima1127?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lima1127?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Lima1127?tab=followers">
-    <img alt="Follows" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Lima1127?color=222258&labelColor=18183E&style=for-the-badge&logo=github&label=Follows&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vinicius-pereira-lima/">
     <img alt="Linkedin" title="Visit my Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin-in&logoColor=white"/></a>
 </p>
