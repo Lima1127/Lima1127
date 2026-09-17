@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Engineer;3%2B%20years%20of%20data%20experience&center=true&width=440&height=45&color=ffffff" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;3%2B%20years%20of%20development%20experience&center=true&width=440&height=45&color=ffffff" /></a>
 </p>
 Hi everyone!! My name is Vinicius Lima, i'm 23 years old and I live in São Paulo. I'm a Computer Science graduate. I've always been fascinated by tecnology, especially games. I have recently been steering my career toward the fields of data and AI.
 
